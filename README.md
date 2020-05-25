@@ -1,0 +1,3 @@
+# A Bayesian Heckman Selection Model: An Application in R with the Stan Programming Language
+
+This is a toy idea and admittedly a departure from the kind of parlor tricks I normally do. Nonetheless, I think this is a reasonable Bayesian approximation of a Heckman selection model, with the added benefit of reasonable estimates of uncertainty for the important selection parameters that come from the modeling procedure (i.e. lambda, rho, sigma). Feedback welcome. I may or may not know what I'm doing. I don't think it's *awful*, though. Error-prone in certain ways, surely, but not necessarily awful or a bad idea.
